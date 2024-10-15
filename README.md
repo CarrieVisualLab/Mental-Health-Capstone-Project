@@ -21,10 +21,15 @@ You can view the presentation by downloading the file or accessing it directly f
 - Introduction --	Topic Mental Health
 Analyzed if public assistance for individuals with Mental Illness is effective, and how those resources can be improved?
 
-- Main Topic 1
-- Main Topic 2
+- Main Topic - Analyzed if public assistance for individuals with Mental Illness is effective, and how those resources can be improved?
+- Main Topic 2 - The Dataset
+- Slide 3 - Cleansing
+- Slide 4 - Analysis
+- Slide 5 - Analysis
+- Slide 6 - Analysis
+- Slide 7 - Analysis
 - Conclusion
-
+- Conclusion and Improvement
 ## Prerequisites
 
 In order to view this presentation you will need the following software:
