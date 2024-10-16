@@ -13,8 +13,10 @@ Share your findings and insights through a final presentation of your analysis
 
 You can view the presentation by downloading the file or accessing it directly from this repository:
 
-- **Download the PDF**: [Download Presentation.pdf](./Presentation.pdf)
-- **View Online**: [Link to Online Presentation](#)
+- **Download the PDF**: [Mental Health Capstone Project_1.pdf](https://github.com/user-attachments/files/17387022/Mental.Health.Capstone.Project_1.pdf)
+- **Speaker Notes**: [Capstone Speaker Summary_PDF.pdf](https://github.com/user-attachments/files/17387030/Capstone.Speaker.Summary_PDF.pdf)
+
+
 
 ## Contents
 
@@ -41,6 +43,4 @@ In order to view this presentation you will need the following software:
 
 Feel free to open an issue or reach out if you have feedback or questions about the presentation!
 
-## License
 
-This presentation is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Feel free to share, adapt, or use it with proper attribution.
